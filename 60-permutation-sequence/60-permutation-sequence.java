@@ -1,7 +1,7 @@
 import java.util.*;
 class Solution {
     public String getPermutation(int n, int k) {
-        ArrayList<Integer> arr=new ArrayList<>();
+        List<Integer> arr=new ArrayList<>();
         int fact=1;
         for(int i=1;i<n;i++){
             fact*=i;
