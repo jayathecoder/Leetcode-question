@@ -30,7 +30,7 @@ class BSTIterator {
         return !st.isEmpty();
     }
     
-    private void pushAll(TreeNode root){
+    public void pushAll(TreeNode root){
         for(;root!=null;root=root.left){
             st.push(root);
         }
