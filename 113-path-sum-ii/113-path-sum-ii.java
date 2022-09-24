@@ -20,8 +20,8 @@ class Solution{
         path.add(node.val);
         if (node.left == null && node.right == null && remainingSum == node.val) 
             ans.add(new ArrayList<>(path));
-        this.dfs(node.left, path, remainingSum - node.val);
-        this.dfs(node.right, path, remainingSum - node.val);
+        dfs(node.left, path, remainingSum - node.val);
+        dfs(node.right, path, remainingSum - node.val);
         path.remove(path.size() - 1);
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
