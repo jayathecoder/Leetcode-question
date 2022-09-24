@@ -15,7 +15,7 @@
  */
 class Solution{
     List<List<Integer>> ans=new ArrayList<>();
-     private void dfs(TreeNode node, List<Integer> path, int remainingSum) {
+     public void dfs(TreeNode node, List<Integer> path, int remainingSum) {
         if (node == null) return;
         path.add(node.val);
         if (node.left == null && node.right == null && remainingSum == node.val) 
