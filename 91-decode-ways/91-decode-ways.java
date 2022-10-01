@@ -10,8 +10,8 @@ class Solution {
             int count=0;
             if(d>0) count+=count2;
             if(dd>=10 && dd<=26) count+=count1;
-            count1=count2;
-            count2=count;
+            count1=count2;//prev to prev
+            count2=count;//prev to sol
         }
         return count2;
     }
