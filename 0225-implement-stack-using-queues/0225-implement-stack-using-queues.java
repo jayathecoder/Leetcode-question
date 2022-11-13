@@ -1,11 +1,8 @@
 import java.util.*;
 class MyStack {
-    Queue<Integer> q1=new LinkedList<>();;
-    Queue<Integer> q2=new LinkedList<>();;
-    
-
+    Queue<Integer> q1;
     public MyStack() {
-        
+        q1=new LinkedList<>();
     }
     
     public void push(int x) {
