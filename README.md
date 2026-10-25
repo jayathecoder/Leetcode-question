@@ -22,17 +22,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/0261-graph-valid-tree) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/0261-graph-valid-tree) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0261-graph-valid-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/0261-graph-valid-tree) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
