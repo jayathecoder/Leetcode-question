@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jayathecoder/Leetcode-question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/jayathecoder/Leetcode-question/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/0261-graph-valid-tree) |
+| [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/0261-graph-valid-tree) |
+| [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
