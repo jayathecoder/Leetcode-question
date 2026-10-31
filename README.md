@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jayathecoder/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0505-the-maze-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/jayathecoder/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayathecoder/Leetcode-question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jayathecoder/Leetcode-question/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jayathecoder/Leetcode-question/tree/master/0225-implement-stack-using-queues) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jayathecoder/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jayathecoder/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
