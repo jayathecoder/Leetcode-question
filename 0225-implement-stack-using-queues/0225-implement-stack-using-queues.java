@@ -1,19 +1,31 @@
-import java.util.*;
 class MyStack {
-    Queue<Integer> q1;
+
+    Queue<Integer> q1, q2;
+
     public MyStack() {
-        q1=new LinkedList<>();
+       q1 = new LinkedList<>();
+       q2 = new LinkedList<>(); 
     }
     
     public void push(int x) {
-        q1.offer(x);
-        for(int i=0;i<q1.size()-1;i++){
-            q1.offer(q1.poll());
+        if(q1.isEmpty()){
+            q1.add(x);
+            return;
+        }
+
+        while(!q1.isEmpty()){
+            q2.add(q1.remove());
+        }
+
+        q1.add(x);
+
+        while(!q2.isEmpty()){
+            q1.add(q2.remove());
         }
     }
     
     public int pop() {
-        return q1.poll();
+        return q1.remove();
     }
     
     public int top() {
@@ -21,7 +33,7 @@ class MyStack {
     }
     
     public boolean empty() {
-        return (q1.isEmpty());
+        return q1.isEmpty();
     }
 }
 
