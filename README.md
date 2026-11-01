@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayathecoder/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/jayathecoder/Leetcode-question/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/jayathecoder/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jayathecoder/Leetcode-question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0505-the-maze-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jayathecoder/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jayathecoder/Leetcode-question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/jayathecoder/Leetcode-question/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
