@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jayathecoder/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jayathecoder/Leetcode-question/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayathecoder/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayathecoder/Leetcode-question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jayathecoder/Leetcode-question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/jayathecoder/Leetcode-question/tree/master/3665-twisted-mirror-path-count) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jayathecoder/Leetcode-question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/jayathecoder/Leetcode-question/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayathecoder/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jayathecoder/Leetcode-question/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0505-the-maze-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0505-the-maze-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayathecoder/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jayathecoder/Leetcode-question/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayathecoder/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/jayathecoder/Leetcode-question/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jayathecoder/Leetcode-question/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayathecoder/Leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/jayathecoder/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/jayathecoder/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayathecoder/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayathecoder/Leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayathecoder/Leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayathecoder/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
 |  |
 | ------- |
