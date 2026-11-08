@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0505-the-maze-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0505-the-maze-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jayathecoder/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jayathecoder/Leetcode-question/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jayathecoder/Leetcode-question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/jayathecoder/Leetcode-question/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/jayathecoder/Leetcode-question/tree/master/2747-count-zero-request-servers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0505-the-maze-ii) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jayathecoder/Leetcode-question/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayathecoder/Leetcode-question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0505-the-maze-ii) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jayathecoder/Leetcode-question/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayathecoder/Leetcode-question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayathecoder/Leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0261-graph-valid-tree](https://github.com/jayathecoder/Leetcode-question/tree/master/0261-graph-valid-tree) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jayathecoder/Leetcode-question/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayathecoder/Leetcode-question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0490-the-maze](https://github.com/jayathecoder/Leetcode-question/tree/master/0490-the-maze) |
 | [0505-the-maze-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0505-the-maze-ii) |
 | [1254-number-of-closed-islands](https://github.com/jayathecoder/Leetcode-question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/jayathecoder/Leetcode-question/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jayathecoder/Leetcode-question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/jayathecoder/Leetcode-question/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jayathecoder/Leetcode-question/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -196,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jayathecoder/Leetcode-question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jayathecoder/Leetcode-question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/jayathecoder/Leetcode-question/tree/master/2747-count-zero-request-servers) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/jayathecoder/Leetcode-question/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
